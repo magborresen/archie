@@ -69,13 +69,14 @@ ul > li::before {
 img {
   border: 3px solid #ececec;
   max-width: 100%;
+  display: inline-block;
 }
 
 figure {
   box-sizing: border-box;
-  display: inline-block;
-  margin: 0;
+  margin: 2em 0em;
   max-width: 100%;
+  text-align: center;
 }
 
 figure img {
